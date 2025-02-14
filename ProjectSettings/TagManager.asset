@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DropArea
+  - Draggable
+  - Selectable
+  - ReplaceableModel
+  - Object1
+  - Object2
+  - Object3
+  - robot
+  - A100_1
+  - A102_1
+  - A104_1
+  - A106_1
+  - A108_1
+  - A109_1
+  - A111_1
+  - A113_1
+  - A114_1
+  - A115_1
+  - A116_1
+  - A118_1
+  - A119_1
+  - A119_assembly
+  - A118_assembly
+  - A117_assembly
+  - A116_assembly
+  - A115_assembly
+  - A114_assembly
+  - A113_assembly
+  - A112_assembly
+  - A111_assembly
+  - A110_assembly
+  - A109_assembly
+  - A108_assembly
+  - A107_assembly
+  - A106_assembly
+  - A105_assembly
+  - A104_assembly
+  - A103_assembly
+  - A102_assembly
+  - A101_assembly
+  - A100_assembly
+  - A99_assembly
+  - A120_1
+  - A117_1
+  - A112_1
+  - A110_1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - robot
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
